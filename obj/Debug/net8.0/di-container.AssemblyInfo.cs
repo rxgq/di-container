@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("di-container")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45664752169386868d9dbb162f5f70a5fce0d1dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("di-container")]
 [assembly: System.Reflection.AssemblyTitleAttribute("di-container")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

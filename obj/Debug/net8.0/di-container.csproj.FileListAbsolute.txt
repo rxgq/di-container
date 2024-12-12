@@ -1,0 +1,15 @@
+C:\Users\adunderdale\Projects\personal\di-container\bin\Debug\net8.0\di-container.exe
+C:\Users\adunderdale\Projects\personal\di-container\bin\Debug\net8.0\di-container.deps.json
+C:\Users\adunderdale\Projects\personal\di-container\bin\Debug\net8.0\di-container.runtimeconfig.json
+C:\Users\adunderdale\Projects\personal\di-container\bin\Debug\net8.0\di-container.dll
+C:\Users\adunderdale\Projects\personal\di-container\bin\Debug\net8.0\di-container.pdb
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\di-container.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\di-container.AssemblyInfoInputs.cache
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\di-container.AssemblyInfo.cs
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\di-container.csproj.CoreCompileInputs.cache
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\di-container.sourcelink.json
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\di-container.dll
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\refint\di-container.dll
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\di-container.pdb
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\di-container.genruntimeconfig.cache
+C:\Users\adunderdale\Projects\personal\di-container\obj\Debug\net8.0\ref\di-container.dll
